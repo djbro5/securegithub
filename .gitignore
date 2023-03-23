@@ -1,7 +1,7 @@
 node_modules/
 # User-specific files - ignore all files starting with the letter "z"
-z.*
+z*
 # User-specific file - ignore file ending in ".env"
-*.env
+.env
 # root arrtifacts folder - ignore this directory 
-/artifacts/*
+/artifacts/
